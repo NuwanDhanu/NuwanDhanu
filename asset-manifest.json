@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nuwandhanu/static/css/main.d1b05096.chunk.css",
+    "main.js": "/nuwandhanu/static/js/main.e4b575d6.chunk.js",
+    "main.js.map": "/nuwandhanu/static/js/main.e4b575d6.chunk.js.map",
+    "runtime-main.js": "/nuwandhanu/static/js/runtime-main.b2ff03ac.js",
+    "runtime-main.js.map": "/nuwandhanu/static/js/runtime-main.b2ff03ac.js.map",
+    "static/js/2.f42be21d.chunk.js": "/nuwandhanu/static/js/2.f42be21d.chunk.js",
+    "static/js/2.f42be21d.chunk.js.map": "/nuwandhanu/static/js/2.f42be21d.chunk.js.map",
+    "index.html": "/nuwandhanu/index.html",
+    "precache-manifest.a15b9274bd4ae43dfb67c51a3c6843a9.js": "/nuwandhanu/precache-manifest.a15b9274bd4ae43dfb67c51a3c6843a9.js",
+    "service-worker.js": "/nuwandhanu/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/nuwandhanu/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.f42be21d.chunk.js.LICENSE": "/nuwandhanu/static/js/2.f42be21d.chunk.js.LICENSE",
+    "static/media/logo.svg": "/nuwandhanu/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2ff03ac.js",
+    "static/js/2.f42be21d.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.e4b575d6.chunk.js"
+  ]
+}
