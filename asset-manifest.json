@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/nuwandhanu/static/js/main.7be01994.chunk.js",
-    "main.js.map": "/nuwandhanu/static/js/main.7be01994.chunk.js.map",
+    "main.js": "/nuwandhanu/static/js/main.08554c8a.chunk.js",
+    "main.js.map": "/nuwandhanu/static/js/main.08554c8a.chunk.js.map",
     "runtime-main.js": "/nuwandhanu/static/js/runtime-main.b2ff03ac.js",
     "runtime-main.js.map": "/nuwandhanu/static/js/runtime-main.b2ff03ac.js.map",
     "static/css/2.f65acde2.chunk.css": "/nuwandhanu/static/css/2.f65acde2.chunk.css",
     "static/js/2.d76e4008.chunk.js": "/nuwandhanu/static/js/2.d76e4008.chunk.js",
     "static/js/2.d76e4008.chunk.js.map": "/nuwandhanu/static/js/2.d76e4008.chunk.js.map",
     "index.html": "/nuwandhanu/index.html",
-    "precache-manifest.5ebcdff981ff6d22b10f8d335ddcebee.js": "/nuwandhanu/precache-manifest.5ebcdff981ff6d22b10f8d335ddcebee.js",
+    "precache-manifest.c347aa22adaa3579652e4930fd1abdf1.js": "/nuwandhanu/precache-manifest.c347aa22adaa3579652e4930fd1abdf1.js",
     "service-worker.js": "/nuwandhanu/service-worker.js",
     "static/css/2.f65acde2.chunk.css.map": "/nuwandhanu/static/css/2.f65acde2.chunk.css.map",
     "static/js/2.d76e4008.chunk.js.LICENSE": "/nuwandhanu/static/js/2.d76e4008.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b2ff03ac.js",
     "static/css/2.f65acde2.chunk.css",
     "static/js/2.d76e4008.chunk.js",
-    "static/js/main.7be01994.chunk.js"
+    "static/js/main.08554c8a.chunk.js"
   ]
 }
